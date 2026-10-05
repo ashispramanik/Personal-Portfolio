@@ -1,4 +1,4 @@
-# Ashis Pramanik | Personal Portfolio
+# Ashis Pramanik  Personal Portfolio
 
 A full-stack personal portfolio. **Python** is the backend and **HTML, CSS and JavaScript** are the frontend. The backend uses only Python's standard library, so there is nothing to install with `pip`.
 
