@@ -1,0 +1,79 @@
+{
+ "name": "Ashis Pramanik",
+ "roles": [
+  "AI / ML Engineer",
+  "Cyber Security Enthusiast",
+  "Full-Stack Developer"
+ ],
+ "summary": "B.Tech Computer Science graduate with a strong base in machine learning, deep learning and cyber security. I build intelligent, secure software and enjoy turning new technology into working solutions.",
+ "email": "ashispramanik011@gmail.com",
+ "phone": "+91 8984066369",
+ "location": "Bhubaneswar, Odisha",
+ "skills": {
+  "Languages": [
+   "C / C++",
+   "Java",
+   "Python",
+   "JavaScript",
+   "HTML + CSS"
+  ],
+  "AI & Data": [
+   "Machine Learning",
+   "Deep Learning",
+   "Data Analysis"
+  ],
+  "Web": [
+   "Node.js",
+   "React.js",
+   "Web Design",
+   "DBMS"
+  ],
+  "Security & Systems": [
+   "Cyber Security",
+   "Network Security",
+   "Linux",
+   "Vulnerability Assessment",
+   "Cyber Forensics"
+  ]
+ },
+ "experience": [
+  {
+   "role": "Associate Engineer, AI/ML and Cyber Security",
+   "org": "SkillBird Technology",
+   "period": "Dec 2025 – Jun 2026",
+   "text": "Trained college students, coordinated academic projects, guided project planning and documentation, and represented the company at seminars, workshops and technical demonstrations."
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Tech, Computer Science and Engineering",
+   "org": "Centurion University of Technology and Management, Bhubaneswar",
+   "period": "2023 – 2026",
+   "score": "CGPA 8.51"
+  },
+  {
+   "degree": "Diploma, Computer Science and Engineering",
+   "org": "Aryan Institute of Engineering and Technology, Bhubaneswar",
+   "period": "2019 – 2022",
+   "score": "CGPA 8.9"
+  },
+  {
+   "degree": "Class 10 (Secondary), CBSE",
+   "org": "D.A.V. Public School, Puri-2",
+   "period": "2018 – 2019",
+   "score": "45%"
+  }
+ ],
+ "certifications": [
+  "IoT and Digital Transformation (Cisco)",
+  "Cyber Security Analyst Job Simulation",
+  "SkillBird: HTML, CSS, JavaScript",
+  "CTTC Internship (AI & ML)",
+  "Cloud Community Day Bhubaneswar 2025",
+  "Great Learning Internship (Cyber Forensics)"
+ ],
+ "activities": [
+  "NCC 'A' and 'B' certificates",
+  "Head Coordinator, Cyber Security Club"
+ ]
+}

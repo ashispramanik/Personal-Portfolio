@@ -1,0 +1,12 @@
+[
+{"title":"SpeedGuard Helmet","category":"AI & ML","tags":["Deep Learning","IoT","Raspberry Pi Pico W","GPS"],"summary":"AI-based smart helmet for two-wheeler riders. I built the deep learning part that detects unsafe situations. The bike starts only when the helmet is worn, and location and speed go to a mobile app over Bluetooth."},
+{"title":"AcciPredict (RoadGuard AI)","category":"AI & ML","tags":["Python","Machine Learning","Deep Learning"],"summary":"Predicts road accidents from weather, road type, traffic, speed limit, driver age, alcohol involvement and visibility to highlight risk factors."},
+{"title":"World Cancer Prediction","category":"AI & ML","tags":["Python","scikit-learn","Classification"],"summary":"Classifies breast tumors as malignant or benign using cleaned clinical data, feature selection and model evaluation."},
+{"title":"Romaxion (Heartalytix)","category":"Data","tags":["Python","Pandas","Visualization"],"summary":"Analyzes 30 days of relationship data, tracking trust, mood, affection and jealousy to find emotional patterns over time."},
+{"title":"Cyber Attack Analysis","category":"Data","tags":["Python","Data Visualization","Security"],"summary":"Explores attack types, trends and geographic spread in a cyber attack dataset, turning raw logs into charts for security decisions."},
+{"title":"Secure Vault","category":"Security","tags":["Cyber Security","Encryption","Password Manager"],"summary":"Password manager that stores and organizes credentials in one place, with a password generator and secure storage."},
+{"title":"Network Protocol Testing","category":"Security","tags":["Networking","Protocols","Batch Scripting"],"summary":"Menu-driven toolkit that tests network protocol behavior and performance, with captured results from each test."},
+{"title":"FlowNetix","category":"Networking","tags":["Cisco Packet Tracer","VLAN","OSPF","DHCP","SSH"],"summary":"Redundant three-floor network with dual ISPs. Each department has its own VLAN and subnet, with trunk and access ports, OSPF, DHCP, SSH, port security and PAT."},
+{"title":"TrackMyClass","category":"Web & Tools","tags":["Bash","Linux","Record management"],"summary":"Linux shell system for class records. Add, view, search, update and delete students, teachers, courses, parents and sports participants."},
+{"title":"Luxury Corner","category":"Web & Tools","tags":["HTML","CSS","JavaScript"],"summary":"Premium real-estate website with property galleries, smooth scrolling and a refined, image-led layout."}
+]

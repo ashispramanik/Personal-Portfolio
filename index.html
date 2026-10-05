@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ashis Pramanik | AI/ML and Cyber Security Engineer</title>
+<meta name="description" content="Portfolio of Ashis Pramanik: machine learning, deep learning, cyber security and full-stack projects.">
+<meta name="theme-color" content="#070711">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<canvas id="net" aria-hidden="true"></canvas>
+<header class="nav"><a href="#top" class="logo">AP</a><nav><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#experience">Experience</a><a href="#education">Education</a><a href="#contact">Contact</a></nav></header>
+<main id="top">
+<section class="hero">
+  <div class="hero-text">
+    <p class="hi">Hi, I'm</p>
+    <h1 id="name" aria-label="Ashis Pramanik"></h1>
+    <p class="role"><span id="role"></span><i class="caret"></i></p>
+    <p id="summary" class="lead"></p>
+    <div class="cta"><a class="btn" href="#projects">See my projects</a><a class="btn ghost" href="Ashis_Pramanik_Resume.pdf" download id="resume">Download resume</a><a class="btn ghost" href="#contact">Get in touch</a></div>
+  </div>
+  <div class="photo"><div class="ring"></div><img src="ashis.jpg" alt="Portrait of Ashis Pramanik" width="400" height="520"></div>
+</section>
+<section id="projects"><h2>Projects</h2><div id="filters" class="filters"></div><div id="grid" class="grid"></div></section>
+<section id="skills"><h2>Skills</h2><div id="skillbox" class="skills"></div></section>
+<section id="experience"><h2>Experience</h2><div id="timeline" class="timeline"></div></section>
+<section id="education"><h2>Education</h2><div id="edu" class="edu"></div></section>
+<section id="achievements"><h2>Certifications and activities</h2><div class="two"><div><h3>Certifications</h3><ul id="certs"></ul></div><div><h3>Activities</h3><ul id="acts"></ul></div></div></section>
+<section id="contact"><h2>Let's talk</h2>
+  <div class="two"><div><p class="lead">Open to AI/ML, cyber security and software roles. Send a message and I'll reply by email.</p><p><a id="mail" href="#"></a></p><p id="phone"></p></div>
+  <form id="form" novalidate><label>Name<input name="name" required autocomplete="name"></label><label>Email<input name="email" type="email" required autocomplete="email"></label><label>Message<textarea name="message" rows="4" required></textarea></label><button class="btn" type="submit">Send message</button><p id="status" role="status"></p></form></div></section>
+</main>
+<footer>© <span id="yr"></span> Ashis Pramanik</footer>
+<script src="app.js"></script></body></html>
